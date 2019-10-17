@@ -1,4 +1,4 @@
-#PATH MODIFIER
+# PATH MODIFIER
 
 Allows to view and modify PATH environment variable on Windows
 
